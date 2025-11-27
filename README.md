@@ -4,6 +4,8 @@
 WinEI
 </h1>
 
+This project is now end of life, and shall receive no more updates by the developer. Issues will no longer be responded to. Apologies development was never completed. Feel free to fork and continue the development if you desire.
+
 <h4 align="center">WinEI brings back a UI for the Windows Experience Index.</h4>
 <p align="center">
   <a href="#about">About</a> •
